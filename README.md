@@ -4,8 +4,10 @@
   <img src="https://telegra.ph/file/9daafeb39193a4a22ee5c.jpg">
 </p>
 
-## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FYukkiBot%2FYukkiXdeploy)
+## Deploy To Heroku
+- Get All The Necessary Variables And Deploy To Heroku.
+- Some Mandatory Variables Are listed [Here](#Variables)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ophuok/YukkiSpamBot)
 
 ## String Session
 No Requirement of API ID and API HASH

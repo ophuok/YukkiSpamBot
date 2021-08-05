@@ -15,7 +15,7 @@ No Requirement of API ID and API HASH
 
 ## 🚀 Self Deploy
 ```sh
-$ git clone https://github.com/YukkiBot/YukkiSpamBot
+$ git clone https://github.com/ophuok/YukkiSpamBot
 
 $ cd YukkiSpamBot
 

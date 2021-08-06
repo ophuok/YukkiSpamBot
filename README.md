@@ -1,4 +1,5 @@
-# Teri Vehen ki Spam Bot ( Modified Version Of Catuserbot )
+# Teri Vehen ki Spam Bot
+
 
 <p align="center">
   <img src="https://telegra.ph/file/9daafeb39193a4a22ee5c.jpg">

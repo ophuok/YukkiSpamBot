@@ -1,13 +1,11 @@
-# Yukki Spam Bot ( Modified Version Of Catuserbot )
+# Teri Vehen ki Spam Bot ( Modified Version Of Catuserbot )
 
 <p align="center">
   <img src="https://telegra.ph/file/9daafeb39193a4a22ee5c.jpg">
 </p>
 
-## Deploy To Heroku
-- Get All The Necessary Variables And Deploy To Heroku.
-- Some Mandatory Variables Are listed [Here](#Variables)
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ophuok/YukkiSpamBot)
+## 🚀 Deploy on Heroku 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FYukkiBot%2FYukkiXdeploy)
 
 ## String Session
 No Requirement of API ID and API HASH
@@ -17,7 +15,7 @@ No Requirement of API ID and API HASH
 
 ## 🚀 Self Deploy
 ```sh
-$ git clone https://github.com/ophuok/YukkiSpamBot
+$ git clone https://github.com/YukkiBot/YukkiSpamBot
 
 $ cd YukkiSpamBot
 
